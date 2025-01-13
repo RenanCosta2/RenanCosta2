@@ -120,7 +120,6 @@ Me chamo Francisco Renan Leite da Costa, tenho 21 anos e sou natural do Ceará. 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=RenanCosta2&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
