@@ -3,9 +3,9 @@
           
 # 👩🏻‍💻 Renan Costa
 
-**`Desenvolvedor BackEnd`**
+**`Analista de Dados`**
 
-Me chamo Francisco Renan Leite da Costa, tenho 21 anos e sou natural do Ceará. Concluí o ensino superior na UFERSA, com o curso Interdisciplinar em Tecnologia da Informação. Atualmente, estou cursando Engenharia de Software também na UFERSA. Meu objetivo atual é ingressar no mercado de trabalho como desenvolvedor backend, buscando entregar soluções eficazes e de alta qualidade. Além disso, Tenho um interesse especial em engenharia de dados e na análise visual de dados utilizando Power BI, visando agregar valor por meio da transformação de dados em insights estratégicos.
+Me chamo Francisco Renan Leite da Costa, tenho 21 anos e sou natural do Ceará. Concluí o ensino superior na UFERSA, com o curso Interdisciplinar em Tecnologia da Informação. Atualmente, estou cursando Engenharia de Software também na UFERSA. Meu objetivo atual é ingressar no mercado de trabalho como Analista de Dados, buscando entregar soluções eficazes e de alta qualidade. 
 
 
 <p align="left">
@@ -47,30 +47,6 @@ Me chamo Francisco Renan Leite da Costa, tenho 21 anos e sou natural do Ceará. 
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
     alt="MySQL" 
     title="MySQL"
     width="30px" 
@@ -84,30 +60,6 @@ Me chamo Francisco Renan Leite da Costa, tenho 21 anos e sou natural do Ceará. 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
 <br/>
