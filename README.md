@@ -1,85 +1,67 @@
+<h1 align="left">Olá 👋 Tudo certo?</h1>
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-# 👩🏻‍💻 Renan Costa
+###
 
-**`Analista de Dados`**
+<p align="left">Meu nome é Francisco Renan Leite da Costa, sou formado em Tecnologia da Informação e atualmente estudante de Engenharia de Software, com foco em construir uma carreira como Analista de Dados.</p>
 
-Me chamo Francisco Renan Leite da Costa, tenho 21 anos e sou natural do Ceará. Concluí o ensino superior na UFERSA, com o curso Interdisciplinar em Tecnologia da Informação. Atualmente, estou cursando Engenharia de Software também na UFERSA. Meu objetivo atual é ingressar no mercado de trabalho como Analista de Dados, buscando entregar soluções eficazes e de alta qualidade. 
+###
 
+<h2 align="left">Sobre mim</h2>
+
+###
 
 <p align="left">
-    <a href="https://github.com/RenanCosta2?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/RenanCosta2?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/RenanCosta2?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/RenanCosta2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+✨ Entusiasta da análise, modelagem e processamento de dados<br>
+📚 Formado em TI, cursando Engenharia de Software na UFERSA<br>
+🔎 Transformo dados brutos em insights estratégicos com SQL, Python e Power BI<br>
+🎯 Objetivo: Atuar como Analista de Dados em projetos que envolvam inteligência analítica e tomada de decisão<br>
+💡 Experiência com bancos de dados relacionais, estatística aplicada e visualização de dados<br>
+🔧 Também tenho vivência com back-end usando Django e Spring Boot, o que facilita a integração entre sistemas e dados
 </p>
 
----
+###
 
-### 🤖 Linguagens e Tecnologias
+<h2 align="left">Ferramentas e Tecnologias</h2>
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Postgresql" 
-    title="Postgresql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
+###
 
-<br/>
-<br/>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="40" alt="Power BI" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
+  <img width="12" />
+</div>
 
-### 📊 Estatísticas
+###
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=RenanCosta2&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<h2 align="left">Certificados Relevantes</h2>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCosta2&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+###
 
-</p>
+- 📜 **Prepare Data for Exploration** – Google (Abril 2025)  
+- 📜 **Ask Questions to Make Data-Driven Decisions** – Google (Abril 2025)  
+- 📜 **Data Analytics Essentials** – Cisco Networking Academy (Março 2025)  
+- 📜 **Connect and Protect: Networks and Network Security** – Google (Fevereiro 2025)
+
+###
+
+<h2 align="left">Conecte-se comigo</h2>
+
+###
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f-renan-costa/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanleitedacosta@gmail.com)
